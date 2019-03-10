@@ -11,7 +11,7 @@
         android:id="@+id/te1"
         android:layout_width="200dp"
         android:layout_height="100dp"
-        android:text="twoactivity"
+        android:text="mainactivity"
         android:textSize="20sp"
         android:textColor="#ffffff"
         android:gravity="center"
